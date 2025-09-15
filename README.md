@@ -1,8 +1,8 @@
 # CS331: DNS Resolver Assignment 1
 
 ## Team Information
-- **Member 1:** [Revathi Katta, 23110159]
-- **Member 2:** [Sai Keerthana Pappala, 23110229]
+- **Member 1:** REVATHI KATTA, 23110159
+- **Member 2:** SAI KEERTHANA PAPPALA, 23110229
 
 ---
 
@@ -60,15 +60,12 @@ dns\_resolver/
 - [Scapy](https://scapy.readthedocs.io/en/latest/) – for parsing PCAP and DNS packets  
   ```bash
   pip install scapy
-````
 
-* For generating PDF reports
+- For generating PDF reports
+  ```bash
+  pip install reportlab
+  ```
 
-```bash
-pip install reportlab
-````
-
-* **Windows users:** Install **Npcap** (instead of WinPcap) to work with PCAP files.
 
 ---
 
@@ -117,17 +114,5 @@ Make sure the **server** is running before starting the **client**.
 | `dns_results_server.csv`  | Server log of DNS queries and resolved IPs              |
 | `DNS_Resolver_Report.pdf` | PDF report of all queries and resolved IPs |
 
----
 
-## Notes
 
-* The **custom header** ensures uniqueness of each query.
-* **Time-based rules** are applied:
-
-  * Morning (04:00–11:59) → First 5 IPs
-  * Afternoon (12:00–19:59) → Middle 5 IPs
-  * Night (20:00–03:59) → Last 5 IPs
-* Within each pool, the exact IP is chosen using **(Query ID % pool size)**.
-* For large PCAP files, parsing may take extra time.
-
-```
