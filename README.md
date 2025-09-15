@@ -114,5 +114,26 @@ Make sure the **server** is running before starting the **client**.
 | `dns_results_server.csv`  | Server log of DNS queries and resolved IPs              |
 | `DNS_Resolver_Report.pdf` | PDF report of all queries and resolved IPs |
 
+# Task-2: Traceroute Protocol Behavior  
+
+This repo also contains report and packet captures for **Task-2 (Traceroute Protocol Behavior)** from the Computer Networks lab assignment.  
+
+## Contents
+- **Task2_Report.pdf** – Answers to all assignment questions with supporting Wireshark screenshots.  
+- **windows_tracert.pcapng** – Wireshark capture of `tracert www.google.com` on Windows (ICMP-based).  
+- **linux_traceroute.pcapng** – Wireshark capture of `traceroute www.google.com` on Linux (UDP-based).  
+
+## Summary
+- Windows `tracert` uses **ICMP Echo Requests** by default.  
+- Linux `traceroute` (default mode) uses **UDP probes to high ports** (33434+).  
+- Captures illustrate differences in probe packets, intermediate **ICMP Time Exceeded**, and final-hop responses.  
+- Report includes analysis of missing replies (`* * *`), changing probe fields, and firewall scenarios.  
+
+## How to View
+Open the `.pcapng` files in **Wireshark**, use display filters like:
+- `icmp` – show ICMP Echo/Time Exceeded/Port Unreachable.  
+- `udp and udp.dstport >= 33434` – show Linux traceroute probes.  
+
+---
 
 
