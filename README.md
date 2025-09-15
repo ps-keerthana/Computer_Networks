@@ -1,8 +1,8 @@
 # CS331: DNS Resolver Assignment 1
 
 ## Team Information
-- **Member 1:** [Name, Roll Number]
-- **Member 2:** [Name, Roll Number]
+- **Member 1:** [Revathi Katta, 23110159]
+- **Member 2:** [Sai Keerthana Pappala, 23110229]
 
 ---
 
@@ -62,11 +62,12 @@ dns\_resolver/
   pip install scapy
 ````
 
-* [ReportLab](https://www.reportlab.com/) – for generating PDF reports
+- * [ReportLab](https://www.reportlab.com/) – for generating PDF reports
 
   ```bash
   pip install reportlab
-  ```
+ ````
+
 * **Windows users:** Install **Npcap** (instead of WinPcap) to work with PCAP files.
 
 ---
