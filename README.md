@@ -62,11 +62,11 @@ dns\_resolver/
   pip install scapy
 ````
 
-For generating PDF reports
+ - For generating PDF reports
 
-  ```bash
+```bash
   pip install reportlab
- ````
+````
 
 * **Windows users:** Install **Npcap** (instead of WinPcap) to work with PCAP files.
 
