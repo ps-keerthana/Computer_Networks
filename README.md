@@ -62,7 +62,7 @@ dns\_resolver/
   pip install scapy
 ````
 
-- For generating PDF reports
+For generating PDF reports
 
   ```bash
   pip install reportlab
