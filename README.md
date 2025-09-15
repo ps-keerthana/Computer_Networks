@@ -1,8 +1,8 @@
-# CS331: DNS Resolver Assignment 1
-
+# CS331: Assignment 1
+# Task-1: DNS Resolver
 ## Team Information
-- **Member 1:** REVATHI KATTA, 23110159
-- **Member 2:** SAI KEERTHANA PAPPALA, 23110229
+- **Member 1: REVATHI KATTA, 23110159**
+- **Member 2: SAI KEERTHANA PAPPALA, 23110229**
 
 ---
 
