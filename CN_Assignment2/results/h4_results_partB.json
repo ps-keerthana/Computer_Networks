@@ -1,0 +1,209 @@
+{
+  "host": "h4",
+  "total_urls": 100,
+  "successful_resolutions": 0,
+  "failed_resolutions": 100,
+  "average_latency_ms": 0,
+  "average_throughput_bps": 0,
+  "results": [
+    {"url": "gustissimo.it", "success": false, "latency_ms": 2023, "ip_address": null}
+,
+    {"url": "auto-klad.ru", "success": false, "latency_ms": 2020, "ip_address": null}
+,
+    {"url": "iointegrators.com", "success": false, "latency_ms": 2024, "ip_address": null}
+,
+    {"url": "daytimeghosthunter.com", "success": false, "latency_ms": 2054, "ip_address": null}
+,
+    {"url": "sapendolo.it", "success": false, "latency_ms": 2038, "ip_address": null}
+,
+    {"url": "saharaimport.com", "success": false, "latency_ms": 2030, "ip_address": null}
+,
+    {"url": "ngoanhien.com", "success": false, "latency_ms": 2043, "ip_address": null}
+,
+    {"url": "itgeorgia.co", "success": false, "latency_ms": 2041, "ip_address": null}
+,
+    {"url": "myfantasticpark.es", "success": false, "latency_ms": 2044, "ip_address": null}
+,
+    {"url": "vinayaprabha.com", "success": false, "latency_ms": 2044, "ip_address": null}
+,
+    {"url": "sitiweb.us", "success": false, "latency_ms": 2054, "ip_address": null}
+,
+    {"url": "contentremarketing.com", "success": false, "latency_ms": 2046, "ip_address": null}
+,
+    {"url": "videofun.me", "success": false, "latency_ms": 2038, "ip_address": null}
+,
+    {"url": "breezelaw.com", "success": false, "latency_ms": 2044, "ip_address": null}
+,
+    {"url": "ranocchi.it", "success": false, "latency_ms": 2048, "ip_address": null}
+,
+    {"url": "22hotmail.com", "success": false, "latency_ms": 2039, "ip_address": null}
+,
+    {"url": "ana-sofia.pt", "success": false, "latency_ms": 2047, "ip_address": null}
+,
+    {"url": "abhair.com", "success": false, "latency_ms": 2019, "ip_address": null}
+,
+    {"url": "tripladoppia.com", "success": false, "latency_ms": 2036, "ip_address": null}
+,
+    {"url": "gardeninginflorida.com", "success": false, "latency_ms": 2040, "ip_address": null}
+,
+    {"url": "thepropertyvault.co.uk", "success": false, "latency_ms": 2036, "ip_address": null}
+,
+    {"url": "viahttps.com", "success": false, "latency_ms": 2045, "ip_address": null}
+,
+    {"url": "adverman.com", "success": false, "latency_ms": 2039, "ip_address": null}
+,
+    {"url": "majorleaguelacrosse.com", "success": false, "latency_ms": 2038, "ip_address": null}
+,
+    {"url": "rubenquinones.com", "success": false, "latency_ms": 2034, "ip_address": null}
+,
+    {"url": "kanoon-ansar.org", "success": false, "latency_ms": 2034, "ip_address": null}
+,
+    {"url": "arrabonet.hu", "success": false, "latency_ms": 2032, "ip_address": null}
+,
+    {"url": "wordai.com", "success": false, "latency_ms": 2030, "ip_address": null}
+,
+    {"url": "muhammedmusa.com", "success": false, "latency_ms": 2018, "ip_address": null}
+,
+    {"url": "freepornvideosx.com", "success": false, "latency_ms": 2022, "ip_address": null}
+,
+    {"url": "120shenbing.com", "success": false, "latency_ms": 2027, "ip_address": null}
+,
+    {"url": "onetoshop.nl", "success": false, "latency_ms": 2022, "ip_address": null}
+,
+    {"url": "meditekyazilim.net", "success": false, "latency_ms": 2037, "ip_address": null}
+,
+    {"url": "theexoticpersian.com", "success": false, "latency_ms": 2029, "ip_address": null}
+,
+    {"url": "boh10suphanburi.com", "success": false, "latency_ms": 2022, "ip_address": null}
+,
+    {"url": "overseasmedical.com", "success": false, "latency_ms": 2028, "ip_address": null}
+,
+    {"url": "grandcanyongrandhotel.com", "success": false, "latency_ms": 2042, "ip_address": null}
+,
+    {"url": "boneshoppe.com", "success": false, "latency_ms": 2020, "ip_address": null}
+,
+    {"url": "sweathelp.org", "success": false, "latency_ms": 2027, "ip_address": null}
+,
+    {"url": "c0.pl", "success": false, "latency_ms": 2049, "ip_address": null}
+,
+    {"url": "sipflash.com", "success": false, "latency_ms": 2048, "ip_address": null}
+,
+    {"url": "koopsmodellbau.de", "success": false, "latency_ms": 2042, "ip_address": null}
+,
+    {"url": "lespetiteschoses.com", "success": false, "latency_ms": 2036, "ip_address": null}
+,
+    {"url": "b2b2c.ca", "success": false, "latency_ms": 2047, "ip_address": null}
+,
+    {"url": "pilsnerurquell.com", "success": false, "latency_ms": 2045, "ip_address": null}
+,
+    {"url": "medintime.ru", "success": false, "latency_ms": 2025, "ip_address": null}
+,
+    {"url": "njafe.org", "success": false, "latency_ms": 2043, "ip_address": null}
+,
+    {"url": "djbarryblends.com", "success": false, "latency_ms": 2044, "ip_address": null}
+,
+    {"url": "deine-bahn.de", "success": false, "latency_ms": 2039, "ip_address": null}
+,
+    {"url": "hackthissite.org", "success": false, "latency_ms": 2049, "ip_address": null}
+,
+    {"url": "ereadz.com", "success": false, "latency_ms": 2033, "ip_address": null}
+,
+    {"url": "gurukulonline.com", "success": false, "latency_ms": 2035, "ip_address": null}
+,
+    {"url": "sf-notifications.com", "success": false, "latency_ms": 2027, "ip_address": null}
+,
+    {"url": "capequilog.com", "success": false, "latency_ms": 2017, "ip_address": null}
+,
+    {"url": "greens.my", "success": false, "latency_ms": 2027, "ip_address": null}
+,
+    {"url": "2xfzy.com", "success": false, "latency_ms": 2043, "ip_address": null}
+,
+    {"url": "magic-illusion.ru", "success": false, "latency_ms": 2027, "ip_address": null}
+,
+    {"url": "irflashgame.com", "success": false, "latency_ms": 2019, "ip_address": null}
+,
+    {"url": "solcredito.es", "success": false, "latency_ms": 2017, "ip_address": null}
+,
+    {"url": "go2jump.com", "success": false, "latency_ms": 2028, "ip_address": null}
+,
+    {"url": "millionfareast.com", "success": false, "latency_ms": 2032, "ip_address": null}
+,
+    {"url": "msf.be", "success": false, "latency_ms": 2033, "ip_address": null}
+,
+    {"url": "cellslider.net", "success": false, "latency_ms": 2034, "ip_address": null}
+,
+    {"url": "bhhsneproperties.com", "success": false, "latency_ms": 2043, "ip_address": null}
+,
+    {"url": "skplus.kr", "success": false, "latency_ms": 2029, "ip_address": null}
+,
+    {"url": "empclan.com", "success": false, "latency_ms": 2031, "ip_address": null}
+,
+    {"url": "carolgraykennedy.com", "success": false, "latency_ms": 2018, "ip_address": null}
+,
+    {"url": "kiyimuzik.com", "success": false, "latency_ms": 2023, "ip_address": null}
+,
+    {"url": "yunpda.com", "success": false, "latency_ms": 2035, "ip_address": null}
+,
+    {"url": "valdo.com", "success": false, "latency_ms": 2032, "ip_address": null}
+,
+    {"url": "supportpabiomass.org", "success": false, "latency_ms": 2025, "ip_address": null}
+,
+    {"url": "roche-applied-science.com", "success": false, "latency_ms": 2039, "ip_address": null}
+,
+    {"url": "oneworldinfo.com", "success": false, "latency_ms": 2023, "ip_address": null}
+,
+    {"url": "7apcrshrmanila.org", "success": false, "latency_ms": 2032, "ip_address": null}
+,
+    {"url": "ilikecrochet.com", "success": false, "latency_ms": 2035, "ip_address": null}
+,
+    {"url": "closerdiets.com", "success": false, "latency_ms": 2021, "ip_address": null}
+,
+    {"url": "myface.com", "success": false, "latency_ms": 2034, "ip_address": null}
+,
+    {"url": "megi.cz", "success": false, "latency_ms": 2041, "ip_address": null}
+,
+    {"url": "pces.in", "success": false, "latency_ms": 2045, "ip_address": null}
+,
+    {"url": "originalmagicart.com", "success": false, "latency_ms": 2047, "ip_address": null}
+,
+    {"url": "godo.co.kr", "success": false, "latency_ms": 2048, "ip_address": null}
+,
+    {"url": "ugotrelis.com", "success": false, "latency_ms": 2048, "ip_address": null}
+,
+    {"url": "alb-automobiles.com", "success": false, "latency_ms": 2044, "ip_address": null}
+,
+    {"url": "ok-magazine.ru", "success": false, "latency_ms": 2027, "ip_address": null}
+,
+    {"url": "wiltpr.com", "success": false, "latency_ms": 2036, "ip_address": null}
+,
+    {"url": "dmg-dental.com", "success": false, "latency_ms": 2037, "ip_address": null}
+,
+    {"url": "silkroadtours.com", "success": false, "latency_ms": 2042, "ip_address": null}
+,
+    {"url": "rositehost.com", "success": false, "latency_ms": 2045, "ip_address": null}
+,
+    {"url": "livescan4all.com", "success": false, "latency_ms": 2043, "ip_address": null}
+,
+    {"url": "oberandsons.com", "success": false, "latency_ms": 2022, "ip_address": null}
+,
+    {"url": "celerity.com", "success": false, "latency_ms": 2025, "ip_address": null}
+,
+    {"url": "miscellaneousheathen.com", "success": false, "latency_ms": 2047, "ip_address": null}
+,
+    {"url": "rolflouisville.com", "success": false, "latency_ms": 2045, "ip_address": null}
+,
+    {"url": "jacquelinemertz.ch", "success": false, "latency_ms": 2039, "ip_address": null}
+,
+    {"url": "gaplex.biz", "success": false, "latency_ms": 2037, "ip_address": null}
+,
+    {"url": "frasesdemotivacao.net", "success": false, "latency_ms": 2035, "ip_address": null}
+,
+    {"url": "divefishhouse.com", "success": false, "latency_ms": 2039, "ip_address": null}
+,
+    {"url": "stark.dk", "success": false, "latency_ms": 2033, "ip_address": null}
+,
+    {"url": "xxx-muschis.de", "success": false, "latency_ms": 2038, "ip_address": null}
+,
+    {"url": "florenseusa.com", "success": false, "latency_ms": 2041, "ip_address": null}
+  ]
+}

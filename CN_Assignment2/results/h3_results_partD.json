@@ -1,0 +1,609 @@
+{
+  "host": "h3",
+  "total_queries": 100,
+  "successful_resolutions": 100,
+  "failed_resolutions": 0,
+  "average_latency_ms": 56,
+  "results": [
+    {
+      "url": "tenant-internet.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "gadanguides.com",
+      "success": true,
+      "latency_ms": 54,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "charityjob.co.uk",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "sarahpartridge.net",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "ecolems.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "marilynlingerie.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "anvilnetworksolutions.net",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "cdmail.fr",
+      "success": true,
+      "latency_ms": 59,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "freeditorial.com",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "ciber.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "get-webby.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "gadgetgearpro.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "sonoma-marinfair.org",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "ishidatic.com",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "minecraftserverdeals.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "romney.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "bookingnest.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "metar.gr",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "bigliettieventi.info",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "asseenontvlaunchpad.com",
+      "success": true,
+      "latency_ms": 53,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "ftf.com",
+      "success": true,
+      "latency_ms": 53,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "polymth.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "crsgfk.de",
+      "success": true,
+      "latency_ms": 54,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "urbannetwork.co.uk",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "synrc.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "callcomm.info",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "ceskykutil.cz",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "ximangquantrieu.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "shishioh.info",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "vpndefender.com",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "hutago.com",
+      "success": true,
+      "latency_ms": 59,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "tangkas888.com",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "egov.sy",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "abmcare.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "iael.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "sailor.pl",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "skyhightmatter.info",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "autopareri.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "cia.it",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "texasbeyondhistory.net",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "gardenofwords.com",
+      "success": true,
+      "latency_ms": 54,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "giuseppelivraghi.it",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "hdcric.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "chekiang.info",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "archiportale.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "de.vu",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "teachmyass.info",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "nasaspaceflight.com",
+      "success": true,
+      "latency_ms": 53,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "consumerreviews24.com",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "dilw.ie",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "bbqinjector.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "gxjbsj.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "fmnara.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "pet-connect.ru",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "synchchaos.com",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "uca.edu",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "oaister.org",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "chenghuavideo.asia",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "video-peche-poisson.fr",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "currencyrates.org",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "zpav.pl",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "tawali.com",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "dock2office.com",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "vlielandoutdoorcenter.nl",
+      "success": true,
+      "latency_ms": 59,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "gregginn.com",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "arcoat.com",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "cushinglawoffices.com",
+      "success": true,
+      "latency_ms": 61,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "eggcityradio.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "michaelbyers.org",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "stkpro.ru",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "silveropt.ru",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "topbarbee.com",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "teleskill.it",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "virtualjerusalem.com",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "morban.co.uk",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "mechachal.org",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "noblewomanhood.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "cosmeticaestheticsurgery.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "note-so-easy.co.za",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "vietcapitaltour.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "ncees.org",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "laigang001.com",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "verlockeshop.de",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "clickdownloadfiles.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "e-hps.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "drglendza.co.rs",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "ghimpele.ro",
+      "success": true,
+      "latency_ms": 68,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "pahibu.net",
+      "success": true,
+      "latency_ms": 52,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "trackcheatingspouse.com",
+      "success": true,
+      "latency_ms": 54,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "dricom-hosting.nl",
+      "success": true,
+      "latency_ms": 56,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "medipacademy.com",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "e-daily.gr",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "cuteteenschoolgirlz.com",
+      "success": true,
+      "latency_ms": 58,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "hralda.info",
+      "success": true,
+      "latency_ms": 59,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "sendrakhizonline.com",
+      "success": true,
+      "latency_ms": 59,
+      "ip_address": "192.168.1.10"
+    },
+    {
+      "url": "hayalforum.net",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.6"
+    },
+    {
+      "url": "begleyhutton.com",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.7"
+    },
+    {
+      "url": "bmw-parts.ru",
+      "success": true,
+      "latency_ms": 55,
+      "ip_address": "192.168.1.8"
+    },
+    {
+      "url": "rterc.in",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.9"
+    },
+    {
+      "url": "monitis.com",
+      "success": true,
+      "latency_ms": 57,
+      "ip_address": "192.168.1.10"
+    }
+  ]
+}
